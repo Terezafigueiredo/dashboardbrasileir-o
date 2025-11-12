@@ -73,3 +73,11 @@ Essas métricas podem ser integradas em dashboards com ferramentas como Tableau 
 
 🏁 Conclusão
 O projeto demonstrou a eficiência do PySpark no processamento massivo de dados esportivos, transformando grandes volumes de informações em indicadores úteis para análise de desempenho. A integração com Python/Pandas permitiu análises complementares e exportação dos resultados, mostrando a força do pipeline implementado.
+
+# 📊 Dashboard do Campeonato Brasileiro (2018-2022)
+
+Este projeto apresenta análises de Big Data com PySpark sobre o Campeonato Brasileiro - Série A (2018-2022).
+
+👉 O dashboard interativo está disponível online:  
+[🔗 Acesse aqui](https://dashboardbrasileir-o-ec4cklcnrvszlbswf6nytb.streamlit.app/)
+
