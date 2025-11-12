@@ -1,3 +1,13 @@
 streamlit
 plotly
 pandas
+
+pyspark → processamento distribuído em larga escala
+
+pandas → manipulação de dados e integração com BI
+
+jupyter → ambiente interativo para notebooks
+
+numpy → operações matemáticas e vetoriais
+
+matplotlib → visualização gráfica dos resultados
